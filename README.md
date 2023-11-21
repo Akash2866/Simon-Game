@@ -1,2 +1,3 @@
 # Simon-Game
-I have created this Simon Game using HTML, CSS and JavaScript.
+Hey Everyone!
+You can play this game here : https://akash2866.github.io/Simon-Game/
